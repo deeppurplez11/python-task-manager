@@ -1,6 +1,6 @@
 
 print("================================")
-print("       MY TASK MANAGER")
+print("       MY PYTHON TASK MANAGER")
 print("================================")
 
 print("1. Add a task")
